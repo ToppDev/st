@@ -21,6 +21,7 @@ Afterwards enter the following command to build and install st
 sudo make clean install
 ```
 
+
 # Patches applied
 
 - [alpha](https://st.suckless.org/patches/alpha/)
@@ -32,3 +33,4 @@ sudo make clean install
 - [dynamic-cursor-color](https://st.suckless.org/patches/dynamic-cursor-color/)
 - [font2](https://st.suckless.org/patches/font2/)
 - [scrollback](https://st.suckless.org/patches/scrollback/)
+- [ligatures](https://st.suckless.org/patches/ligatures/)
