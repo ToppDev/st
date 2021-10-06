@@ -29,3 +29,4 @@ sudo make clean install
 - [blinking cursor](https://st.suckless.org/patches/blinking_cursor/)
 - [bold is not bright](https://st.suckless.org/patches/bold-is-not-bright/)
 - [boxdraw](https://st.suckless.org/patches/boxdraw/)
+- [desktopentry](https://st.suckless.org/patches/desktopentry/)
