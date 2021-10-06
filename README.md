@@ -31,3 +31,4 @@ sudo make clean install
 - [desktopentry](https://st.suckless.org/patches/desktopentry/)
 - [dynamic-cursor-color](https://st.suckless.org/patches/dynamic-cursor-color/)
 - [font2](https://st.suckless.org/patches/font2/)
+- [scrollback](https://st.suckless.org/patches/scrollback/)
