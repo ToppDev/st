@@ -30,3 +30,4 @@ sudo make clean install
 - [bold is not bright](https://st.suckless.org/patches/bold-is-not-bright/)
 - [boxdraw](https://st.suckless.org/patches/boxdraw/)
 - [desktopentry](https://st.suckless.org/patches/desktopentry/)
+- [dynamic-cursor-color](https://st.suckless.org/patches/dynamic-cursor-color/)
