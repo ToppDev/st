@@ -24,10 +24,10 @@ sudo make clean install
 # Patches applied
 
 - [alpha](https://st.suckless.org/patches/alpha/)
-  <!-- ![st-alpha-s.png](https://st.suckless.org/patches/alpha/st-alpha-s.png) -->
 - [anysize](https://st.suckless.org/patches/anysize/)
 - [blinking cursor](https://st.suckless.org/patches/blinking_cursor/)
 - [bold is not bright](https://st.suckless.org/patches/bold-is-not-bright/)
 - [boxdraw](https://st.suckless.org/patches/boxdraw/)
 - [desktopentry](https://st.suckless.org/patches/desktopentry/)
 - [dynamic-cursor-color](https://st.suckless.org/patches/dynamic-cursor-color/)
+- [font2](https://st.suckless.org/patches/font2/)
