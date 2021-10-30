@@ -34,3 +34,4 @@ sudo make clean install
 - [font2](https://st.suckless.org/patches/font2/)
 - [scrollback](https://st.suckless.org/patches/scrollback/)
 - [ligatures](https://st.suckless.org/patches/ligatures/)
+- [workingdir](https://st.suckless.org/patches/workingdir/)
