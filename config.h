@@ -9,7 +9,7 @@
 static char *font2[] = {
 	"JoyPixels:pixelsize=11:antialias=true:autohint=true",
 };
-static char *font = "FiraCode Nerd Font:pixelsize=13:antialias=true:autohint=true";
+static char *font = "FiraCode Nerd Font Mono:pixelsize=13:antialias=true:autohint=true";
 
 static int borderpx = 2;
 
